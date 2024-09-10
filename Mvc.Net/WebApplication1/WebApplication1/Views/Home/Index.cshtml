@@ -1,0 +1,100 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@*Inline Expression Statement*@
+@*<p>TODAY DATE AND TIME IS: @DateTime.Now </p>*@
+
+@*Declaring Variables*@
+@*@{
+        string name = "Ankush Gupta";
+        var Todaystime = DateTime.Now.ToLongTimeString();
+    }
+    <h2>Name is: @name</h2>
+    <h2>Todays Time is: @Todaystime</h2>*@
+
+
+@* Conditional Statements *@
+@*@{
+        int marks = 80;
+        if(marks >= 80)
+        {
+            <h2>Your Grade Is A1</h2>
+        }
+        else
+        {
+            <h2>Your Grade Is A</h2>
+        }
+    }*@
+
+@*Loops
+    @{
+            for(int i = 1; i<10; i++)
+            {
+                <h2>@i</h2>
+            }
+        }*@
+
+
+@*viewdata*@
+
+@*<h2>@ViewData["Message"]</h2>
+    <h2>@ViewData["CurrentTime"]</h2>
+    <ul>
+        @{
+            foreach(string i in (string[])ViewData["FruitsArray"])
+            {
+                <li>@i</li>
+            }
+        }
+    </ul>
+
+    <ul>
+        @{
+            foreach (string i in (List<string>)ViewData["SportsList"])
+            {
+                <li>@i</li>
+            }
+        }
+    </ul>
+
+    @{
+        var a = (WebApplication1.Models.Employee)ViewData["Employee"];
+    }
+    <p>@a.EmpID</p>
+    <p>@a.EmpName</p>
+    <p>@a.EmpDesignation</p>*@
+
+
+@*viewbag*@
+@*<h2>@ViewBag.Message</h2>
+<h2>@ViewBag.CurrentDate</h2>*@
+
+@*<ul>
+    @{
+        foreach (string i in ViewBag.FruitsArray)
+        {
+            <li>@i</li>
+        }
+    }
+</ul>*@
+
+@*<ul>
+    @{
+        foreach (string i in ViewBag.SportsList)
+        {
+            <li>@i</li>
+        }
+    }
+</ul>*@
+
+@*@{
+    var a = ViewBag.Employee;
+}
+<p>@a.EmpID</p>
+<p>@a.EmpName</p>
+<p>@a.EmpDesignation</p>
+
+<h2>Data comes from ViewData@ViewData["CommonMessage"]</h2>
+<h2>Data comes from ViewBag: @ViewBag.CommonMessage</h2>*@

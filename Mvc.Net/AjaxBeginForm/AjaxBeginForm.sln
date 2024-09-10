@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AjaxBeginForm", "AjaxBeginForm\AjaxBeginForm.csproj", "{D926956D-D885-4BE9-9E44-C131FA34C9AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D926956D-D885-4BE9-9E44-C131FA34C9AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D926956D-D885-4BE9-9E44-C131FA34C9AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D926956D-D885-4BE9-9E44-C131FA34C9AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D926956D-D885-4BE9-9E44-C131FA34C9AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61771462-02BF-43FF-A554-B5774A5429CF}
+	EndGlobalSection
+EndGlobal

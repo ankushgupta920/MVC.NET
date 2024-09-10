@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3713E6A5-5CA9-4CA7-B747-DDA2859205AB}|WebApplication3\\WebApplication3.csproj|C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\WebApplication3\\webapplication3\\views\\home\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3713E6A5-5CA9-4CA7-B747-DDA2859205AB}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\home\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3713E6A5-5CA9-4CA7-B747-DDA2859205AB}|WebApplication3\\WebApplication3.csproj|C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\WebApplication3\\webapplication3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3713E6A5-5CA9-4CA7-B747-DDA2859205AB}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3713E6A5-5CA9-4CA7-B747-DDA2859205AB}|WebApplication3\\WebApplication3.csproj|C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\WebApplication3\\webapplication3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3713E6A5-5CA9-4CA7-B747-DDA2859205AB}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3713E6A5-5CA9-4CA7-B747-DDA2859205AB}|WebApplication3\\WebApplication3.csproj|c:\\users\\ankus\\desktop\\coding\\mvc.net\\webapplication3\\webapplication3\\views\\home\\index3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3713E6A5-5CA9-4CA7-B747-DDA2859205AB}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\home\\index3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\WebApplication3\\WebApplication3\\Views\\Home\\Index2.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Home\\Index2.cshtml",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\WebApplication3\\WebApplication3\\Views\\Home\\Index2.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Home\\Index2.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T21:05:43.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index3.cshtml",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\WebApplication3\\WebApplication3\\Views\\Home\\Index3.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Home\\Index3.cshtml",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\WebApplication3\\WebApplication3\\Views\\Home\\Index3.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Home\\Index3.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T21:05:04.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\WebApplication3\\WebApplication3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\WebApplication3\\WebApplication3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T19:10:37.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\WebApplication3\\WebApplication3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\WebApplication3\\WebApplication3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwCcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:10:12.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

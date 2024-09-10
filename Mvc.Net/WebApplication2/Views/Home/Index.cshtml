@@ -1,0 +1,78 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+@*<nav>
+        <ul>
+            <li>@Html.ActionLink("Home Page", "Index", "Home")</li>
+            <li>@Html.ActionLink("About Us Page", "AboutUs", "Home")</li>
+            <li>@Html.ActionLink("Contact Us Page", "ContactUs", "Home")</li>
+        </ul>
+    </nav>
+
+    @Html.TextBox("fullname")
+    <br />
+    <br />
+
+    @Html.TextBox("fullname", "Ankush")
+    <br />
+    <br />
+
+    @Html.TextBox("fullname", "Ankush",
+        new
+        {
+        style = "background:lightgreen;color:red;font-weight:bold;",
+            title = "Please Enter Your Fullname"
+        })
+    <br />
+    <br />
+
+    @Html.TextBox("fullname", "Kumar",
+        new
+        {
+        @class = "TextboxStyle"
+        })
+    <br />
+    <br />
+
+    @Html.TextBox("fullname", "Ram",
+        new
+        {
+        @class = "form-control"
+        })
+    <br />
+    <br />*@
+
+<h2>Index</h2>
+<h3>THIS IS INDEX PAGE</h3>
+
+@*Creating Form*@
+@{
+    Html.BeginForm("Index", "Home");
+}
+@Html.Label("Username") &nbsp; @Html.TextBox("Username")
+<br />
+<br />
+@Html.Label("Password") &nbsp; @Html.Password("Password")
+<br />
+<br />
+@Html.Label("Male") &nbsp; @Html.RadioButton("Gender", "Male")
+@Html.Label("Female") &nbsp; @Html.RadioButton("Gender", "Female")
+<br />
+<br />
+@Html.Label("Select Country") &nbsp; @Html.DropDownList("CountryList", new SelectList(new[] { "India", "Pakistan", "Srilanka", "Bangladesh" }), "Select")
+<br />
+<br />
+@Html.Label("Address") &nbsp; @Html.TextArea("Area", "", 5, 20, null)
+<br />
+<br />
+@Html.CheckBox("AcceptsTeams", true) &nbsp; @Html.Label("I Accepts the Teams")
+<br />
+<br />
+@Html.Hidden("id")
+<br />
+<br />
+<input type="submit" value="Submit" />
+@{
+    Html.EndForm();
+}

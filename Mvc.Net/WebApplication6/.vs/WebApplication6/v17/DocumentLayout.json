@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\WebApplication6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C146C4CC-074C-4B0E-B4D6-C128D0CD4168}|WebApplication6\\Validations.csproj|c:\\users\\ankus\\desktop\\coding\\mvc.net\\webapplication6\\webapplication6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C146C4CC-074C-4B0E-B4D6-C128D0CD4168}|WebApplication6\\Validations.csproj|solutionrelative:webapplication6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C146C4CC-074C-4B0E-B4D6-C128D0CD4168}|WebApplication6\\Validations.csproj|c:\\users\\ankus\\desktop\\coding\\mvc.net\\webapplication6\\webapplication6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C146C4CC-074C-4B0E-B4D6-C128D0CD4168}|WebApplication6\\Validations.csproj|solutionrelative:webapplication6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\WebApplication6\\WebApplication6\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\WebApplication6\\WebApplication6\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T17:22:48.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\WebApplication6\\WebApplication6\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\WebApplication6\\WebApplication6\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:26:09.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

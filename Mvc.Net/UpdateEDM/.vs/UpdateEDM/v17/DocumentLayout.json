@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\UpdateEDM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B45804A-1150-4ECD-839C-FAEB656B462D}|UpdateEDM\\UpdateEDM.csproj|c:\\users\\ankus\\desktop\\coding\\mvc.net\\updateedm\\updateedm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B45804A-1150-4ECD-839C-FAEB656B462D}|UpdateEDM\\UpdateEDM.csproj|solutionrelative:updateedm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B45804A-1150-4ECD-839C-FAEB656B462D}|UpdateEDM\\UpdateEDM.csproj|c:\\users\\ankus\\desktop\\coding\\mvc.net\\updateedm\\updateedm\\models\\myedmdatamodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B45804A-1150-4ECD-839C-FAEB656B462D}|UpdateEDM\\UpdateEDM.csproj|solutionrelative:updateedm\\models\\myedmdatamodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B45804A-1150-4ECD-839C-FAEB656B462D}|UpdateEDM\\UpdateEDM.csproj|c:\\users\\ankus\\desktop\\coding\\mvc.net\\updateedm\\updateedm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B45804A-1150-4ECD-839C-FAEB656B462D}|UpdateEDM\\UpdateEDM.csproj|solutionrelative:updateedm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B45804A-1150-4ECD-839C-FAEB656B462D}|UpdateEDM\\UpdateEDM.csproj|c:\\users\\ankus\\desktop\\coding\\mvc.net\\updateedm\\updateedm\\views\\home\\employee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B45804A-1150-4ECD-839C-FAEB656B462D}|UpdateEDM\\UpdateEDM.csproj|solutionrelative:updateedm\\views\\home\\employee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cshtml",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\UpdateEDM\\UpdateEDM\\Views\\Home\\Employee.cshtml",
+              "RelativeDocumentMoniker": "UpdateEDM\\Views\\Home\\Employee.cshtml",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\UpdateEDM\\UpdateEDM\\Views\\Home\\Employee.cshtml",
+              "RelativeToolTip": "UpdateEDM\\Views\\Home\\Employee.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T12:50:50.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\UpdateEDM\\UpdateEDM\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "UpdateEDM\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\UpdateEDM\\UpdateEDM\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "UpdateEDM\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T12:49:50.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\UpdateEDM\\UpdateEDM\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UpdateEDM\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\UpdateEDM\\UpdateEDM\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UpdateEDM\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:47:50.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyEDMdataModel.Context.cs",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\UpdateEDM\\UpdateEDM\\Models\\MyEDMdataModel.Context.cs",
+              "RelativeDocumentMoniker": "UpdateEDM\\Models\\MyEDMdataModel.Context.cs",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\UpdateEDM\\UpdateEDM\\Models\\MyEDMdataModel.Context.cs",
+              "RelativeToolTip": "UpdateEDM\\Models\\MyEDMdataModel.Context.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:42:14.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

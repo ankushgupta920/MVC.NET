@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\AjaxBeginForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D926956D-D885-4BE9-9E44-C131FA34C9AE}|AjaxBeginForm\\AjaxBeginForm.csproj|c:\\users\\ankus\\desktop\\coding\\mvc.net\\ajaxbeginform\\ajaxbeginform\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D926956D-D885-4BE9-9E44-C131FA34C9AE}|AjaxBeginForm\\AjaxBeginForm.csproj|solutionrelative:ajaxbeginform\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D926956D-D885-4BE9-9E44-C131FA34C9AE}|AjaxBeginForm\\AjaxBeginForm.csproj|c:\\users\\ankus\\desktop\\coding\\mvc.net\\ajaxbeginform\\ajaxbeginform\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D926956D-D885-4BE9-9E44-C131FA34C9AE}|AjaxBeginForm\\AjaxBeginForm.csproj|solutionrelative:ajaxbeginform\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\AjaxBeginForm\\AjaxBeginForm\\Views\\home\\Create.cshtml",
+              "RelativeDocumentMoniker": "AjaxBeginForm\\Views\\home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\AjaxBeginForm\\AjaxBeginForm\\Views\\home\\Create.cshtml",
+              "RelativeToolTip": "AjaxBeginForm\\Views\\home\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T14:05:41.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\AjaxBeginForm\\AjaxBeginForm\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AjaxBeginForm\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\AjaxBeginForm\\AjaxBeginForm\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AjaxBeginForm\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:04:07.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

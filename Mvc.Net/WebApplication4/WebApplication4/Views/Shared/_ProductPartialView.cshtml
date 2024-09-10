@@ -1,0 +1,25 @@
+﻿@model WebApplication4.Models.Product
+
+<table border="2" width="600">
+    <tr>
+        <td>
+            <img src="@Url.Content(Model.Picture)" width="150" height="150" />
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td>PRODUCT ID:  </td>
+                    <td>@Model.Id</td>
+                </tr>
+                <tr>
+                    <td>PRODUCT Name:  </td>
+                    <td>@Model.Name</td>
+                </tr>
+                <tr>
+                    <td>PRODUCT Price:  </td>
+                    <td>@Model.Price</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>

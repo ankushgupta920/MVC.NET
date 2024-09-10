@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\EF_CodeFirstApproach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21050585-A5FA-417E-88FB-C2D43DBC5B5E}|EF_CodeFirstApproach\\EF_CodeFirstApproach.csproj|C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\EF_CodeFirstApproach\\ef_codefirstapproach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21050585-A5FA-417E-88FB-C2D43DBC5B5E}|EF_CodeFirstApproach\\EF_CodeFirstApproach.csproj|solutionrelative:ef_codefirstapproach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21050585-A5FA-417E-88FB-C2D43DBC5B5E}|EF_CodeFirstApproach\\EF_CodeFirstApproach.csproj|C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\EF_CodeFirstApproach\\ef_codefirstapproach\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21050585-A5FA-417E-88FB-C2D43DBC5B5E}|EF_CodeFirstApproach\\EF_CodeFirstApproach.csproj|solutionrelative:ef_codefirstapproach\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21050585-A5FA-417E-88FB-C2D43DBC5B5E}|EF_CodeFirstApproach\\EF_CodeFirstApproach.csproj|c:\\users\\ankus\\desktop\\coding\\mvc.net\\ef_codefirstapproach\\ef_codefirstapproach\\models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21050585-A5FA-417E-88FB-C2D43DBC5B5E}|EF_CodeFirstApproach\\EF_CodeFirstApproach.csproj|solutionrelative:ef_codefirstapproach\\models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21050585-A5FA-417E-88FB-C2D43DBC5B5E}|EF_CodeFirstApproach\\EF_CodeFirstApproach.csproj|C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\EF_CodeFirstApproach\\ef_codefirstapproach\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21050585-A5FA-417E-88FB-C2D43DBC5B5E}|EF_CodeFirstApproach\\EF_CodeFirstApproach.csproj|solutionrelative:ef_codefirstapproach\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21050585-A5FA-417E-88FB-C2D43DBC5B5E}|EF_CodeFirstApproach\\EF_CodeFirstApproach.csproj|C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\EF_CodeFirstApproach\\ef_codefirstapproach\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21050585-A5FA-417E-88FB-C2D43DBC5B5E}|EF_CodeFirstApproach\\EF_CodeFirstApproach.csproj|solutionrelative:ef_codefirstapproach\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21050585-A5FA-417E-88FB-C2D43DBC5B5E}|EF_CodeFirstApproach\\EF_CodeFirstApproach.csproj|C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\EF_CodeFirstApproach\\ef_codefirstapproach\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21050585-A5FA-417E-88FB-C2D43DBC5B5E}|EF_CodeFirstApproach\\EF_CodeFirstApproach.csproj|solutionrelative:ef_codefirstapproach\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21050585-A5FA-417E-88FB-C2D43DBC5B5E}|EF_CodeFirstApproach\\EF_CodeFirstApproach.csproj|C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\EF_CodeFirstApproach\\ef_codefirstapproach\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21050585-A5FA-417E-88FB-C2D43DBC5B5E}|EF_CodeFirstApproach\\EF_CodeFirstApproach.csproj|solutionrelative:ef_codefirstapproach\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21050585-A5FA-417E-88FB-C2D43DBC5B5E}|EF_CodeFirstApproach\\EF_CodeFirstApproach.csproj|C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\EF_CodeFirstApproach\\ef_codefirstapproach\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{21050585-A5FA-417E-88FB-C2D43DBC5B5E}|EF_CodeFirstApproach\\EF_CodeFirstApproach.csproj|solutionrelative:ef_codefirstapproach\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\EF_CodeFirstApproach\\EF_CodeFirstApproach\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "EF_CodeFirstApproach\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\EF_CodeFirstApproach\\EF_CodeFirstApproach\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "EF_CodeFirstApproach\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T20:05:17.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\EF_CodeFirstApproach\\EF_CodeFirstApproach\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EF_CodeFirstApproach\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\EF_CodeFirstApproach\\EF_CodeFirstApproach\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "EF_CodeFirstApproach\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T18:28:54.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\EF_CodeFirstApproach\\EF_CodeFirstApproach\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "EF_CodeFirstApproach\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\EF_CodeFirstApproach\\EF_CodeFirstApproach\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "EF_CodeFirstApproach\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T16:55:32.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\EF_CodeFirstApproach\\EF_CodeFirstApproach\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EF_CodeFirstApproach\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\EF_CodeFirstApproach\\EF_CodeFirstApproach\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EF_CodeFirstApproach\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T15:51:58.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\EF_CodeFirstApproach\\EF_CodeFirstApproach\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirstApproach\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\EF_CodeFirstApproach\\EF_CodeFirstApproach\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EF_CodeFirstApproach\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T01:16:53.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\EF_CodeFirstApproach\\EF_CodeFirstApproach\\Web.config",
+              "RelativeDocumentMoniker": "EF_CodeFirstApproach\\Web.config",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\EF_CodeFirstApproach\\EF_CodeFirstApproach\\Web.config",
+              "RelativeToolTip": "EF_CodeFirstApproach\\Web.config",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-10T01:08:41.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\EF_CodeFirstApproach\\EF_CodeFirstApproach\\Models\\StudentContext.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirstApproach\\Models\\StudentContext.cs",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\EF_CodeFirstApproach\\EF_CodeFirstApproach\\Models\\StudentContext.cs",
+              "RelativeToolTip": "EF_CodeFirstApproach\\Models\\StudentContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T01:01:11.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\EF_CodeFirstApproach\\EF_CodeFirstApproach\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirstApproach\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\EF_CodeFirstApproach\\EF_CodeFirstApproach\\Models\\Student.cs",
+              "RelativeToolTip": "EF_CodeFirstApproach\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T00:58:07.571Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

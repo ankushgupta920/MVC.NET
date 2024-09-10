@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\WebApplication5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF0F2CD-DB2E-4FFC-8300-DCD077D0F691}|WebApplication5\\WebApplication5.csproj|c:\\users\\ankus\\desktop\\coding\\mvc.net\\webapplication5\\webapplication5\\views\\home1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EF0F2CD-DB2E-4FFC-8300-DCD077D0F691}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\views\\home1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF0F2CD-DB2E-4FFC-8300-DCD077D0F691}|WebApplication5\\WebApplication5.csproj|c:\\users\\ankus\\desktop\\coding\\mvc.net\\webapplication5\\webapplication5\\controllers\\home1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF0F2CD-DB2E-4FFC-8300-DCD077D0F691}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\controllers\\home1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF0F2CD-DB2E-4FFC-8300-DCD077D0F691}|WebApplication5\\WebApplication5.csproj|c:\\users\\ankus\\desktop\\coding\\mvc.net\\webapplication5\\webapplication5\\models\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF0F2CD-DB2E-4FFC-8300-DCD077D0F691}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\models\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF0F2CD-DB2E-4FFC-8300-DCD077D0F691}|WebApplication5\\WebApplication5.csproj|c:\\users\\ankus\\desktop\\coding\\mvc.net\\webapplication5\\webapplication5\\models\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF0F2CD-DB2E-4FFC-8300-DCD077D0F691}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\models\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF0F2CD-DB2E-4FFC-8300-DCD077D0F691}|WebApplication5\\WebApplication5.csproj|c:\\users\\ankus\\desktop\\coding\\mvc.net\\webapplication5\\webapplication5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EF0F2CD-DB2E-4FFC-8300-DCD077D0F691}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF0F2CD-DB2E-4FFC-8300-DCD077D0F691}|WebApplication5\\WebApplication5.csproj|c:\\users\\ankus\\desktop\\coding\\mvc.net\\webapplication5\\webapplication5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF0F2CD-DB2E-4FFC-8300-DCD077D0F691}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\WebApplication5\\WebApplication5\\Models\\Calculation.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Models\\Calculation.cs",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\WebApplication5\\WebApplication5\\Models\\Calculation.cs",
+              "RelativeToolTip": "WebApplication5\\Models\\Calculation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:07:14.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\WebApplication5\\WebApplication5\\Views\\Home1\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication5\\Views\\Home1\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\WebApplication5\\WebApplication5\\Views\\Home1\\Index.cshtml",
+              "RelativeToolTip": "WebApplication5\\Views\\Home1\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T13:06:13.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home1Controller.cs",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\WebApplication5\\WebApplication5\\Controllers\\Home1Controller.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Controllers\\Home1Controller.cs",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\WebApplication5\\WebApplication5\\Controllers\\Home1Controller.cs",
+              "RelativeToolTip": "WebApplication5\\Controllers\\Home1Controller.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:06:00.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\WebApplication5\\WebApplication5\\Models\\SignUp.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Models\\SignUp.cs",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\WebApplication5\\WebApplication5\\Models\\SignUp.cs",
+              "RelativeToolTip": "WebApplication5\\Models\\SignUp.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:11:19.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\WebApplication5\\WebApplication5\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication5\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\WebApplication5\\WebApplication5\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication5\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T12:10:32.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\WebApplication5\\WebApplication5\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\WebApplication5\\WebApplication5\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication5\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:10:13.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

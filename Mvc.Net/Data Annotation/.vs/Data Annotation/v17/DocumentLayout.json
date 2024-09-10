@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\Data Annotation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEE63F5-A02C-4EDF-A2C7-A86982E14B15}|Data Annotation\\Data Annotation.csproj|C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\Data Annotation\\data annotation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEE63F5-A02C-4EDF-A2C7-A86982E14B15}|Data Annotation\\Data Annotation.csproj|solutionrelative:data annotation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEE63F5-A02C-4EDF-A2C7-A86982E14B15}|Data Annotation\\Data Annotation.csproj|C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\Data Annotation\\data annotation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFEE63F5-A02C-4EDF-A2C7-A86982E14B15}|Data Annotation\\Data Annotation.csproj|solutionrelative:data annotation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEE63F5-A02C-4EDF-A2C7-A86982E14B15}|Data Annotation\\Data Annotation.csproj|c:\\users\\ankus\\desktop\\coding\\mvc.net\\data annotation\\data annotation\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEE63F5-A02C-4EDF-A2C7-A86982E14B15}|Data Annotation\\Data Annotation.csproj|solutionrelative:data annotation\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\Data Annotation\\Data Annotation\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Data Annotation\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\Data Annotation\\Data Annotation\\Models\\Employee.cs",
+              "RelativeToolTip": "Data Annotation\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T17:55:46.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\Data Annotation\\Data Annotation\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Data Annotation\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\Data Annotation\\Data Annotation\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Data Annotation\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T17:54:46.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\Data Annotation\\Data Annotation\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Data Annotation\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\Data Annotation\\Data Annotation\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Data Annotation\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T17:54:32.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

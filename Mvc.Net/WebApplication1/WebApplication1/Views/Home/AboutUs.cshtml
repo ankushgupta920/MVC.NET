@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "AboutUs";
+}
+
+<h2>AboutUs</h2>
+@*<p>THIS IS MY ABOUT US PAGE !!</p>*@
+<h3>TempData data is: @TempData["Message1"]</h3>
+<h3>ViewData data is: @ViewData["Message2"]</h3>
+<h3>ViewBag data is: @ViewBag.Message3</h3>
+
+<ul>
+    @{ 
+        foreach(string i in (string[])TempData["FruitsArray"])
+            {
+                <li>@i</li>
+            }
+    }
+</ul>

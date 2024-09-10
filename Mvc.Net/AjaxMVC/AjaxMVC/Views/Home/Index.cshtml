@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<marquee>
+    Ajax Example...!!!
+</marquee>
+
+<br />
+
+Current Time:
+
+<div id="id1">
+    @ViewBag.Time
+</div>
+
+<br />
+
+@Ajax.ActionLink("ShowUpdatedTime", "PartialUpdate", new AjaxOptions
+{
+    HttpMethod = "POST",
+    UpdateTargetId = "id1",
+    InsertionMode = InsertionMode.Replace
+})
+
+<script src="~/Scripts/jquery-3.7.0.min.js"></script>
+<script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+
+@*@Html.ActionLink("ShowUpdate", "Index", "Home");*@

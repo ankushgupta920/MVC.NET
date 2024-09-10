@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "Index3";
+}
+
+<h2>Index3</h2>
+
+@Html.Partial("_EmployeesList")
+<br />
+<br />
+@{
+    Html.RenderPartial("_EmployeesList");
+}
+
+@Html.Partial("_LoginPartialView")
+<br />
+<br />
+@{
+    Html.RenderPartial("_LoginPartialView");
+}
+
+@*Used for Dynamic Partial View
+@Html.Action()
+@Html.RenderAction()*@

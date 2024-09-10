@@ -1,0 +1,38 @@
+﻿@*@model WebApplication3.Models.Employee*@
+@model List<WebApplication3.Models.Employee>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@{
+    var a = (WebApplication3.Models.Employee)ViewData["Var1"];
+    var b = @ViewBag.Var2;
+}
+
+<h3>ViewData Data:</h3>
+<p>@a.Id</p>
+<p>@a.Name</p>
+<p>@a.Age</p>
+
+<h3>ViewBag Data:</h3>
+<p>@b.Id</p>
+<p>@b.Name</p>
+<p>@b.Age</p>
+
+<h3>Strongly Typed View Data:</h3>
+<ul>
+    @{
+        foreach (var i in Model)
+        {
+            <li>@i.Id</li>
+            <li>@i.Name</li>
+            <li>@i.Age</li>
+        }
+    }
+</ul>
+
+@*<p>@Model.Id</p>
+<p>@Model.Name</p>
+<p>@Model.Age</p>*@

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\SearchFunctionalityWithCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34412E08-9128-4797-B97A-CF2B5860BA71}|SearchFunctionalityWithCrud\\SearchFunctionalityWithCrud.csproj|c:\\users\\ankus\\desktop\\coding\\mvc.net\\searchfunctionalitywithcrud\\searchfunctionalitywithcrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34412E08-9128-4797-B97A-CF2B5860BA71}|SearchFunctionalityWithCrud\\SearchFunctionalityWithCrud.csproj|solutionrelative:searchfunctionalitywithcrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34412E08-9128-4797-B97A-CF2B5860BA71}|SearchFunctionalityWithCrud\\SearchFunctionalityWithCrud.csproj|c:\\users\\ankus\\desktop\\coding\\mvc.net\\searchfunctionalitywithcrud\\searchfunctionalitywithcrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34412E08-9128-4797-B97A-CF2B5860BA71}|SearchFunctionalityWithCrud\\SearchFunctionalityWithCrud.csproj|solutionrelative:searchfunctionalitywithcrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\SearchFunctionalityWithCrud\\SearchFunctionalityWithCrud\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SearchFunctionalityWithCrud\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\SearchFunctionalityWithCrud\\SearchFunctionalityWithCrud\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SearchFunctionalityWithCrud\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T10:08:40.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\SearchFunctionalityWithCrud\\SearchFunctionalityWithCrud\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SearchFunctionalityWithCrud\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\SearchFunctionalityWithCrud\\SearchFunctionalityWithCrud\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SearchFunctionalityWithCrud\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAkwB8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T10:05:33.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

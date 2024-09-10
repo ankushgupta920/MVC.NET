@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\ResultFilterMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4AADDB-B12B-44DF-B89F-6F9FCCB78633}|ResultFilterMVC\\ResultFilterMVC.csproj|c:\\users\\ankus\\desktop\\coding\\mvc.net\\resultfiltermvc\\resultfiltermvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4AADDB-B12B-44DF-B89F-6F9FCCB78633}|ResultFilterMVC\\ResultFilterMVC.csproj|solutionrelative:resultfiltermvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4AADDB-B12B-44DF-B89F-6F9FCCB78633}|ResultFilterMVC\\ResultFilterMVC.csproj|C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\ResultFilterMVC\\resultfiltermvc\\views\\home\\getdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE4AADDB-B12B-44DF-B89F-6F9FCCB78633}|ResultFilterMVC\\ResultFilterMVC.csproj|solutionrelative:resultfiltermvc\\views\\home\\getdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4AADDB-B12B-44DF-B89F-6F9FCCB78633}|ResultFilterMVC\\ResultFilterMVC.csproj|C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\ResultFilterMVC\\resultfiltermvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE4AADDB-B12B-44DF-B89F-6F9FCCB78633}|ResultFilterMVC\\ResultFilterMVC.csproj|solutionrelative:resultfiltermvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetData.cshtml",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\ResultFilterMVC\\ResultFilterMVC\\Views\\Home\\GetData.cshtml",
+              "RelativeDocumentMoniker": "ResultFilterMVC\\Views\\Home\\GetData.cshtml",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\ResultFilterMVC\\ResultFilterMVC\\Views\\Home\\GetData.cshtml",
+              "RelativeToolTip": "ResultFilterMVC\\Views\\Home\\GetData.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T18:00:23.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\ResultFilterMVC\\ResultFilterMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ResultFilterMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\ResultFilterMVC\\ResultFilterMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ResultFilterMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T17:28:41.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\ResultFilterMVC\\ResultFilterMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ResultFilterMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ankus\\Desktop\\Coding\\Mvc.Net\\ResultFilterMVC\\ResultFilterMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ResultFilterMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T17:28:21.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
